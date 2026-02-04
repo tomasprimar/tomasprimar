@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomasprimar
-- 👀 I’m interested in web3 & Smart Contracts ...
-- 🌱 I’m currently learning building
+- 👀 I’m interested in AI, web3 & Smart Contracts ...
+- 🌱 I’m currently learning building with AI
 - 💞️ I’m looking to collaborate on solidity
 - 📫 How to reach me @tomasprimar tlgrm
 
